@@ -10,15 +10,15 @@
     <br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPgmJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <br><br>
-<Strong>📧Email📧</Strong><br>chltmdwns96@gmail.com<br>
+<Strong>📧Email📧</Strong><br>sungsill150@gmail.com<br>
 </p>
 
 <br>
 
 <p align="center">
 반갑습니다👐<br>
-제 이름은 최승준이고 백엔드를 공부하고 있어요!<br>
-현재 대학교에 재학중이며 뭐든 배우려는 자세로 학습에 임하고 있습니다.<br>
+제 이름은 박호진입니다. 백엔드를 공부하고 있어요!<br>
+현재 개발자로 근무를 하고 있으며 더욱 실력을 쌓을려고 노력하는 주니어 개발자 입니다.<br>
 </p>
 
 <br>
@@ -53,5 +53,5 @@
 
 <div align=center>
 
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=PgmJun&show_icons=true)
+![Hojin's github stats](https://github-readme-stats.vercel.app/api?username=hojin7769&show_icons=true)
 
